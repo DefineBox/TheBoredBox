@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheBoredBox
+- 👀 I’m interested in Web Developing and Robots
+- 🌱 I’m currently learning C++ and Java
