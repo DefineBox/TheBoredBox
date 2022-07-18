@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @TheBoredBox
-- 👀 I’m interested in Web Developing and Robots
-- 🌱 I’m currently learning C++ and Java
+- 👋 Hi, I’m @DefineBox
+- 👀 I’m interested in Web Developing, Video Game Development, and Robots
+- 🌱 I’m currently learning C++, Java, C#, and Python
